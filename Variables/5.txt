@@ -1,0 +1,1 @@
+In the first program, the return value of x is "3". The second program, however, produces an error message. This is because x is initialized in the outer scope of the first program, while it is initiallized in the inner scope of the second program. Variables initialized in the inner scope of a program (i.e. within a block) are not available outside of that block. 
