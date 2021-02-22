@@ -1,0 +1,1 @@
+This error message indicates that when the method calculate_product was called, only 1 argument was passed to it instead of the requisite 2. 
