@@ -1,0 +1,1 @@
+Exception handling is a method of handling unpredicatability within you code by anticipating potential errors and altering the flow of the program so that it doesn't quit when an error is encountered.
