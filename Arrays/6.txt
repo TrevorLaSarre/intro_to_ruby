@@ -1,0 +1,2 @@
+The code is attempting to reference an element of the array by typing that element itself ('margaret') instead of the index for that element (3). 
+You can alter this code to produce the desired result by changing line 2 to names[3] = 'jody' or by calling names.pop, then adding the line names << 'jody' 
