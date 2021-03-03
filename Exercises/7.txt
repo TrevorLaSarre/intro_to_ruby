@@ -1,0 +1,1 @@
+Arrays contain values that are indexed by numbers (starting at 0) while Hashes are collections of key/value pairs
